@@ -1,0 +1,1 @@
+Excerpt STATA commands (do-file): Considering the hierarchical/complex nature of the data that was analyzed, a generalized structural equation model was used to examine factors that were associated with birth spacing intention among the study participants.
